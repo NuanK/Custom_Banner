@@ -1,4 +1,4 @@
-package com.bwie.a10cziview;
+package com.bwie.ziview;
 
 import android.app.Activity;
 import android.content.Context;

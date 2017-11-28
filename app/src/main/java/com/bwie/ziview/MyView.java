@@ -1,9 +1,8 @@
-package com.bwie.a10cziview;
+package com.bwie.ziview;
 
 import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Color;
-import android.graphics.CornerPathEffect;
 import android.graphics.Paint;
 import android.util.AttributeSet;
 import android.view.View;

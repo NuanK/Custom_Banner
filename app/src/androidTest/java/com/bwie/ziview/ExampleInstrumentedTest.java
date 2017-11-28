@@ -1,4 +1,4 @@
-package com.bwie.a10cziview;
+package com.bwie.ziview;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
