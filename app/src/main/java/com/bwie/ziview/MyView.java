@@ -7,9 +7,7 @@ import android.graphics.Paint;
 import android.util.AttributeSet;
 import android.view.View;
 
-/**
- * Created by ASUS on 2017/11/28.
- */
+
 
 public class MyView extends View {
 

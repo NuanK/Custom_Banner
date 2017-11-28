@@ -15,11 +15,6 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 
 
-
-/**
- * Created by ASUS on 2017/11/28.
- */
-
 public class BannerFrameLayout extends FrameLayout implements ImageBannerViewGroup.BannerDotListener  {
 
     private ImageBannerViewGroup mImageBannerViewGroup;

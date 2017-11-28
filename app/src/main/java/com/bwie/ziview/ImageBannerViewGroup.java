@@ -16,9 +16,6 @@ import java.util.List;
 import java.util.Timer;
 import java.util.TimerTask;
 
-/**
- * Created by ASUS on 2017/11/28.
- */
 
 public class ImageBannerViewGroup extends ViewGroup {
 
